@@ -1,4 +1,4 @@
-<img src="home.png"></a>
+<img src="home.jpg"></a>
 
 
 # Getting Started with Create React App
